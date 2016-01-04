@@ -5,7 +5,7 @@
 </small>
 <script>
 jQuery( document ).ready( function( $ ) {
-    $( '#container2' ).masonry( { columnWidth: 220 } );
+    $( '#container' ).masonry( { columnWidth: 180 } );
 });
 </script>
 <?php wp_footer(); ?>

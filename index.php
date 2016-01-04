@@ -1,7 +1,6 @@
 <?php
 ?>
 <?php include_once( 'header.php' ); ?>
-<!-- Start the Loop. -->
 <div id="container2">
     <?php
     $temp = $wp_query;
@@ -28,7 +27,5 @@
             </div>
         <?php endwhile;?>
         <?php $wp_query = null; $wp_query = $temp;?>
-        <!-- stop The Loop. -->
-    </div><!-- container -->
-
+    </div>
     <?php get_footer(); ?>
