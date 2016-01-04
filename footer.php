@@ -1,6 +1,4 @@
 <small class="themeinfo">
-    <?php echo __('Powered by WordPress', 'leotheme'); ?> | <a
-    href="sheinit.com/impressum">Impressum</a>
     <?php echo __('Powered by WordPress', 'leotheme'); ?> | <a href="sheinit.com/impressum">Impressum</a>
 </small>
 <script>
