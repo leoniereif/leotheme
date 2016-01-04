@@ -15,33 +15,37 @@ Leotheme is distributed under the terms of the GNU GPL.
 
 /* masonry brick layout */
 #container2 {
-    width:      100%; /* width of the entire container for the wall */
-        margin-bottom: 10px;
+	width: 100%; /* width of the entire container for the wall */
+	margin-bottom: 10px;
 }
 
 .brick {
-    width:      20%; /* width of each brick less the padding inbetween */
-    padding:    0px 10px 15px 10px;
-        background-color: #383838;
-        margin-top: 5px;
+	width: 20%; /* width of each brick less the padding inbetween */
+	padding: 0px 10px 15px 10px;
+	background-color: #383838;
+	margin-top: 5px;
 }
 
-.brick_header{
-border-bottom: solid 1px #1d1d1d;
-padding-bottom: 10px;
-padding-top: 10px;
+.brick_header {
+	border-bottom: solid 1px #1d1d1d;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
-.brick_header a{
-color: #ffff00;
+
+.brick_header a {
+	color: #ffff00;
 }
-.brick_header a:hover{
-color: white;
+
+.brick_header a:hover {
+	color: white;
 }
-.brick_featured_image{
-width: 100%;
-margin-top: 10px;
+
+.brick_featured_image {
+	width: 100%;
+	margin-top: 10px;
 }
-.brick_featured_image img{
-width: 100%;
-height: auto;
+
+.brick_featured_image img {
+	width: 100%;
+	height: auto;
 }
