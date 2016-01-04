@@ -1,3 +1,3 @@
 <?php
-  //placeholder for wordpress structure
+//placeholder for wordpress structure
 ?>
