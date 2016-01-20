@@ -34,6 +34,7 @@
 						</script>
 					</div>
 				</div>
+				<!--MENU/CATEGORY OPTIONS: SMART, FUN, PASSIONATE, ARTSY, ME-->
 			</div>
 		</div>
 	</body>
